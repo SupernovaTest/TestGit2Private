@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><Root Version="4.5.0.0">
+  <Info>
+    <Main Description="&lt;Type here your production project description>" FixtureId="Production01" ProjectType="Production" SocketNr="1" SocketSynchronizationMethod="Batch"/>
+    <SoftwareRevisionManagement IgnoreList="" PluginName="None"/>
+  </Info>
+</Root>
