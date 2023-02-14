@@ -1,1 +1,0 @@
-'This is a fake file telling Supernova that the current revision / wc is released for production
